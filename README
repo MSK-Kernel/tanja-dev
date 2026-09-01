@@ -1,0 +1,17 @@
+To get started and install tanja-dev, follow these steps below:
+
+1) Give execution permissions to install.sh
+   -> chmod +x install.sh
+
+2) Run installation script
+   -> ./install.sh
+
+To uninstall tanja-dev, follow these steps below:
+
+1) Give execution permissions to uninstall.sh
+   -> chmod +x uninstall.sh
+
+2) Run uninstallation script
+   -> ./uninstall.sh
+
+That's it! For more information or would like to contact support, please contact saffron.msk@gmail.com
